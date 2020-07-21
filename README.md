@@ -2,7 +2,7 @@
 Some examples of programming and data science projects I worked on.
 
 ## [Weather forecast for my hometown Trier in Germany](https://github.com/Olhaau/weather_forecast_trier)
-To better understand the weather in my hometown I applied in this project classical time series methods (ARIMA) and deep learning methods (LSTM) to forecast the  monthly cumulated rainfall and average temperature in Trier. Here are the results of my most accurate prediction using LSTM:
+To better understand the weather in my hometown I applied classical time series methods (ARIMA) and deep learning methods (LSTM) to forecast the  monthly cumulated rainfall and average temperature in Trier. Here are the results of my most accurate prediction using LSTM:
 
 ![result_forecast](https://github.com/Olhaau/weather_forecast_trier/blob/master/forecast.png)
 
