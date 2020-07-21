@@ -1,11 +1,10 @@
-### Hi there 👋
-
-
 # Portfolio
 Some examples of programming and data science projects I worked on.
 
 <!--
 **Olhaau/Olhaau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
