@@ -6,7 +6,11 @@ To better understand the weather in my hometown I applied classical time series 
 
 ![result_forecast](https://github.com/Olhaau/weather_forecast_trier/blob/master/forecast.png)
 
-## Scraping glassdoor data
+## [Scraping glassdoor data](https://github.com/Olhaau/glassdoor_scraper)
+I adjusted a scraper for glassdoor.com to the german glassdoor page and gathered data of around 1000 data science job offers to support my job search. Here is an example of a result:
+
+![most_requested_keywords](https://github.com/Olhaau/glassdoor_scraper/blob/master/most_requested_keywords.png)
+
 
 ## [Controlling the risk of a change in reinsurance retetion](https://github.com/Olhaau/Reinsurance_retention)
 A project of an internship at a major insurance company in 2013, which made savings in reinsurance premium possible by controlling the risk of a change of their reinsurance retention. Here are some results for realistic and synthetically generated data:
