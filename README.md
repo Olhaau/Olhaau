@@ -2,7 +2,7 @@
 Some examples of programming and data science projects I worked on.
 
 ## [Weather forecast for my hometown Trier in Germany](https://github.com/Olhaau/weather_forecast_trier)
-To better understand the weather in my hometown I applied classical time series methods (ARIMA) and deep learning methods (LSTM) to forecast the  monthly cumulated rainfall and average temperature in Trier. Here are the results of my most accurate prediction using LSTM:
+To better understand the weather in my hometown I applied classical time series methods (ARIMA) and deep learning methods (LSTM) to forecast the  monthly cumulated rainfall and the average temperature in Trier. Here are the results of my most accurate prediction using LSTM:
 
 ![result_forecast](https://github.com/Olhaau/weather_forecast_trier/blob/master/forecast.png)
 
@@ -12,7 +12,7 @@ I adjusted a scraper for glassdoor.com to the german glassdoor page and gathered
 ![most_requested_keywords](https://github.com/Olhaau/glassdoor_scraper/blob/master/most_requested_keywords.png)
 
 
-## [Controlling the risk of a change in reinsurance retetion](https://github.com/Olhaau/Reinsurance_retention)
+## [Controlling the risk of a change in reinsurance retention](https://github.com/Olhaau/Reinsurance_retention)
 A project of an internship at a major insurance company in 2013, which made savings in reinsurance premium possible by controlling the risk of a change of their reinsurance retention. Here are some results for realistic and synthetically generated data:
 
 <img align="left" width="380" height="400" src="https://raw.githubusercontent.com/Olhaau/Reinsurance_retention/master/SumOfClaims.gif">
