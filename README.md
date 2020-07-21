@@ -9,7 +9,7 @@ To better understand the weather in my hometown I applied in this project classi
 ## Scraping glassdoor data
 
 ## [Controlling the risk of a change in reinsurance retetion](https://github.com/Olhaau/Reinsurance_retention)
-A project of an internship at a major insurance company in 2013, which made savings in reinsurance premium possible by controlling the risk of a change of their reinsurance retentions. Here are some results for realistic and synthetically generated data:
+A project of an internship at a major insurance company in 2013, which made savings in reinsurance premium possible by controlling the risk of a change of their reinsurance retention. Here are some results for realistic and synthetically generated data:
 
 <img align="left" width="380" height="400" src="https://raw.githubusercontent.com/Olhaau/Reinsurance_retention/master/SumOfClaims.gif">
 <img style="float: right;" width="380" height="385" src="https://raw.githubusercontent.com/Olhaau/Reinsurance_retention/master/EstimatedSafetyCapital.png">
