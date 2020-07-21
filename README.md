@@ -1,11 +1,11 @@
 # Portfolio
 Some examples of programming and data science projects I worked on.
 
-## Weather forecast for my hometown Trier in Germany
+## [Weather forecast for my hometown Trier in Germany](https://github.com/Olhaau/weather_forecast_trier)
 
 ## Scraping glassdoor data
 
-## Controlling the risk of reinsureance retetions
+## [Controlling the risk of a change in reinsureance retetions](https://github.com/Olhaau/Reinsurance_retention)
 
 <!--
 **Olhaau/Olhaau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
