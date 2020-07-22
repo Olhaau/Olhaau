@@ -1,10 +1,18 @@
 # Portfolio
 Some examples of programming and data science projects I worked on.
 
+
 ## [Weather forecast for my hometown Trier in Germany](https://github.com/Olhaau/weather_forecast_trier)
 To better understand the weather in my hometown I applied classical time series methods (ARIMA) and deep learning (LSTM) to forecast the  monthly cumulated rainfall and the average temperature in Trier. Here are the results of my most accurate prediction using LSTM:
 
 ![result_forecast](https://github.com/Olhaau/weather_forecast_trier/blob/master/forecast.png)
+
+with the following accuracy in the predictions:
+
+|              | MAPE  | RMSE  |
+| ------------ |:-----:| :-----:|
+| rainfall     | 3.48% |  2.48 |
+| temperature  | 2.02% |  1.27 |
 
 ## [Scraping data from glassdoor.de](https://github.com/Olhaau/glassdoor_scraper)
 I adjusted a scraper for glassdoor.com to the german glassdoor page and gathered data of around 1000 data science job offers to support my job search. Here is an example of a result:
