@@ -14,6 +14,17 @@ with the following accuracy in the predictions:
 | rainfall     | 3.48% |  2.48 |
 | temperature  | 2.02% |  1.27 |
 
+## [Stock price forecast](https://github.com/Olhaau/stock_price_prediction)
+I wanted to apply the methods from my weather forecast project to another classic time series. So I used ARIMA and LSTM to forecast stock prices in the example of Microsoft's closing stock prices. Here are the results of my most accurate prediction using LSTM:
+
+![stock_prediction](https://github.com/Olhaau/stock_price_prediction/blob/master/MSFT_stock_prediction.png)
+ 
+ with the following accuracy in the predictions:
+| MAPE  | RMSE  |
+|:-----:| :-----:|
+| 0.72% |  1.39 |
+
+
 ## [Scraping data from glassdoor.de](https://github.com/Olhaau/glassdoor_scraper)
 I adjusted a scraper for glassdoor.com to the german glassdoor page and gathered data of around 1000 data science job offers to support my job search. Here is an example of a result:
 
