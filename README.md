@@ -31,7 +31,7 @@ I adjusted a scraper for glassdoor.com to the german glassdoor page and gathered
 ![most_requested_keywords](https://github.com/Olhaau/glassdoor_scraper/blob/master/most_requested_keywords.png)
 
 
-## [Controlling the risk of a change in reinsurance retention](https://github.com/Olhaau/Reinsurance_retention)
+## [Controlling the risk of changing the reinsurance retention](https://github.com/Olhaau/Reinsurance_retention)
 A project of an internship at a major insurance company in 2013, which made savings in reinsurance premium possible by controlling the risk of a change of their reinsurance retention. Here are some results for realistic and synthetically generated data:
 
 <img align="left" width="380" height="400" src="https://raw.githubusercontent.com/Olhaau/Reinsurance_retention/master/total_claim.gif">
