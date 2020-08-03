@@ -11,8 +11,8 @@ with the following accuracy in the predictions:
 
 |              | MAPE  | RMSE  |
 | ------------ |:-----:| :-----:|
-| rainfall     | 3.48% |  2.48 |
-| temperature  | 2.02% |  1.27 |
+| **Rainfall**     | 3.48% |  2.48 |
+| **Temperature**  | 2.02% |  1.27 |
 
 ## [Stock price forecast](https://github.com/Olhaau/stock_price_prediction)
 I wanted to apply the methods from my weather forecast project to another classic time series. So I used ARIMA and LSTM to forecast stock prices in the example of Microsoft's closing stock prices. Here are the results of my most accurate prediction using LSTM:
