@@ -26,7 +26,7 @@ I wanted to apply the methods from my weather forecast project to another classi
 
 
 ## [Scraping data from glassdoor.de](https://github.com/Olhaau/glassdoor_scraper)
-I adjusted a scraper for glassdoor.com to the german glassdoor page and gathered data of around 1000 data science job offers to support my job search. For example, I wanted to find the most requested keywords and created the following graph:
+I adjusted a scraper for glassdoor.com to the german glassdoor page and gathered data of around 1000 data science job offers to support my job search. For example, I wanted to find the most requested keywords in the job descriptions and created the following graph:
 
 ![most_requested_keywords](https://github.com/Olhaau/glassdoor_scraper/blob/master/most_requested_keywords.png)
 
