@@ -37,6 +37,12 @@ A project of an internship at a major insurance company in 2013 that made saving
 <img align="left" width="380" height="400" src="https://raw.githubusercontent.com/Olhaau/Reinsurance_retention/master/total_claim.gif">
 <img style="float: right;" width="380" height="385" src="https://raw.githubusercontent.com/Olhaau/Reinsurance_retention/master/EstimatedSafetyCapital.png">
 
+## [overview of machine learning, artificial intelligence and big data](https://github.com/Olhaau/Hands-On-ML-KI-BigData/blob/main/README.md)
+<b>
+An overview of machine learning, artificial intelligence and big data methods and its application will be created in <a href="https://github.com/Olhaau/Hands-On-ML-KI-BigData/blob/main/README.md">this repo</a>
+.
+</b>
+
 
 <!--
 **Olhaau/Olhaau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
