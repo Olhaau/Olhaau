@@ -39,8 +39,7 @@ A project of an internship at a major insurance company in 2013 that made saving
 
 ## [overview of machine learning, artificial intelligence and big data](https://github.com/Olhaau/Hands-On-ML-KI-BigData/blob/main/README.md)
 <b>
-An overview of machine learning, artificial intelligence and big data methods and its application will be created in <a href="https://github.com/Olhaau/Hands-On-ML-KI-BigData/blob/main/README.md">this repo</a>
-.
+An overview of machine learning, artificial intelligence and big data methods and its application will be created in <a href="https://github.com/Olhaau/Hands-On-ML-KI-BigData/blob/main/README.md">this repo</a>.
 </b>
 
 
