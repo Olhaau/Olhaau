@@ -1,5 +1,3 @@
-
-
 # Portfolio
 Some examples of programming and data science projects I worked on.
 
@@ -44,16 +42,12 @@ A project of an internship at a major insurance company in 2013 that made saving
 An overview of machine learning, artificial intelligence and big data methods and its application will be created in <a href="https://github.com/Olhaau/Hands-On-ML-KI-BigData">this repo</a>.
 </b>
 
-Overview of the applications and used machine learning methods in official statistics from the meta analysis in <a href=https://arxiv.org/abs/1812.10422> Beck, Dumpert, Feuerhake,  (2018)</a>:
+Overview of the applications and used machine learning methods in official statistics from the meta analysis of <a href=https://arxiv.org/abs/1812.10422> Beck, Dumpert, Feuerhake,  (2018)</a>:
 
-
-<p align="center">
-  <img width="500" height="500" src="https://github.com/Olhaau/Hands-On-ML-KI-BigData/blob/main/heatmap_ml_methods_and_applications_3.png">
-</p>
+![heatmap_ml](https://github.com/Olhaau/Hands-On-ML-KI-BigData/blob/main/heatmap_ml_methods_and_applications_3.png)
 
 
 <!--
-
 **Olhaau/Olhaau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
