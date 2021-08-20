@@ -44,7 +44,7 @@ An overview of machine learning, artificial intelligence and big data methods an
 
 Overview of the applications and used machine learning methods in official statistics from the meta analysis in <a href=https://arxiv.org/abs/1812.10422> Beck, Dumpert, Feuerhake,  (2018)</a>:
 
-<img src="https://github.com/Olhaau/Hands-On-ML-KI-BigData/blob/main/heatmap_ml_methods_and_applications_3.png" width="600" height="600" alt="hm_ml">
+<img src="https://github.com/Olhaau/Hands-On-ML-KI-BigData/blob/main/heatmap_ml_methods_and_applications_3.png" width="500" height="500" alt="hm_ml">
 <!--
 **Olhaau/Olhaau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
